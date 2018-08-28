@@ -1,3 +1,9 @@
-.player-console {
+.contestant-console {
   display: none;
+}
+body {
+
+  background-image:url(https://www.whatdowedoallday.com/wp-content/uploads/2017/09/pig-dice-fb680.jpg);
+  padding: 6px;
+  margin: 6px;
 }
